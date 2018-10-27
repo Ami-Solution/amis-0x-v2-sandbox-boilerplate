@@ -18,19 +18,22 @@ Amis 0x v2 Sandbox Boilerplate is part of the ERC20-AMIS Token Future, options a
 
 * CodeSandBox version is available here:
 
-[![Edit Amis 0x v2 sandbox boilerplate](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/rlmo9q9zvn)
+[![Edit Amis 0x v2 sandbox boilerplate](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/04z0ykx3qn)
 
-Mainnet 0x v2:
+* visit https://04z0ykx3qn.codesandbox.io/
+
+## Mainnet 0x v2:
 * 0x4f833a24e1f95d70f028921e27040ca56e09ab0b
 
-Ropsten 0x v2:
-* 0x4530c0483a1633c7a1c97d2c53721caff2caaaaf
-* 0x6ad96339c565317aa2c1844a89b2dcd6f66b4539 (copy)
+## Ropsten 0x v2:
+* 0x4530c0483a1633c7a1c97d2c53721caff2caaaaf (unverified contract from 0xproject portal)
+* https://ropsten.etherscan.io/address/0x6ad96339c565317aa2c1844a89b2dcd6f66b4539 (verified 0x v2 Exchange contract)
 ```
 {"signedOrder":{"senderAddress":"0x0000000000000000000000000000000000000000","makerAddress":"0x58e3fc68696c75245200efe0551b969d6e5046cf","takerAddress":"0x0000000000000000000000000000000000000000","makerFee":"0","takerFee":"0","makerAssetAmount":"1000000","takerAssetAmount":"1000000000000000","makerAssetData":"0xf47261b0000000000000000000000000949bed886c739f1a3273629b3320db0c5024c719","takerAssetData":"0xf47261b0000000000000000000000000c778417e063141139fce010982780140aa0cd5ab","expirationTimeSeconds":"1545044400","feeRecipientAddress":"0x0000000000000000000000000000000000000000","salt":"44593115851888691015384999503028739491758411104609325590776434318507767120546","signature":"0x1b16b389a4244cbfca56875765c11a8d04f53adbd26d6ca1b914bcd6804af1bb2756f4e95fe5c2d6363cae9383801034e610389653c6be07376bb61af607e3748103","exchangeAddress":"0x4530c0483a1633c7a1c97d2c53721caff2caaaaf"},"metadata":{"makerToken":{"name":"AMIS","symbol":"AMIS","decimals":9},"takerToken":{"name":"Ether Token","symbol":"WETH","decimals":18}}}
 ```
-### Kovan 0x v2:
-* 0x35dd2932454449b14cee11a94d3674a936d5d7b2
+## Kovan 0x v2:
+* 0x35dd2932454449b14cee11a94d3674a936d5d7b2 (unverified contract from 0xproject portal)
 ```
 {"signedOrder":{"senderAddress":"0x0000000000000000000000000000000000000000","makerAddress":"0x58e3fc68696c75245200efe0551b969d6e5046cf","takerAddress":"0x0000000000000000000000000000000000000000","makerFee":"0","takerFee":"0","makerAssetAmount":"1000000000000000","takerAssetAmount":"1000000000","makerAssetData":"0xf47261b0000000000000000000000000d0a1e359811322d97991e03f863a0c30c2cf029c","takerAssetData":"0xf47261b00000000000000000000000007161f09a6ae81b546bebc04b24629c4f3dad746f","expirationTimeSeconds":"1543575600","feeRecipientAddress":"0x0000000000000000000000000000000000000000","salt":"93107011837088377611935218908337397677353861528980847346389472957500789815699","signature":"0x1ba6baa34ad89daae64981b45bd49d8c871f13e395b1d0463d1c13ad0a97fa639a41f6b672014b431c33fbaed01dcfc54cd5bd2e9ef35faafab44d97fc366cad6b03","exchangeAddress":"0x35dd2932454449b14cee11a94d3674a936d5d7b2"},"metadata":{"makerToken":{"name":"Wrapped Ether","symbol":"WETH","decimals":18},"takerToken":{"name":"AMIS","symbol":"AMIS","decimals":9}}}
 ```
+* https://kovan.etherscan.io/address/0x025cbb0e1a38277592fe110a6d0d4f730ae7cea6 (verified 0x v2 Exchange contract)
