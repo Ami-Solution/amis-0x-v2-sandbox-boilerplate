@@ -1,0 +1,8 @@
+{
+    "short_name": "Amis 0x.js v2 sandbox",
+    "name": "Amis 0x.js v2 sandbox",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
